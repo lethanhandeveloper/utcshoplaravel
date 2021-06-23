@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file edited lần 2
+=======
+file edited
+>>>>>>> 9eb8081b9202c22be098f104ee07fba5251e459e
